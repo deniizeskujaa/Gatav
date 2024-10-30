@@ -1,5 +1,5 @@
 """
-Izveidot programmu, kur jāatbild uz 4 jautājumiem.
+Izveidot programmu, kur jāatbild uz 4 jautājumiem
 Pēc atbilžu ievadīšanas tiek izvadīti iegūtie rezultāti.
 """
 
